@@ -5,6 +5,7 @@ import java.util.*;
 
 //TextEditor class starts here
 class TextEditor extends Frame implements ActionListener {
+    //1
     TextArea ta = new TextArea();
     int i, len1, len, pos1;
     String str = "", s3 = "", s2 = "", s4 = "", s32 = "", s6 = "", s7 = "", s8 = "", s9 = "";
